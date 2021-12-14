@@ -5,4 +5,6 @@ This AppImage package allows you to run the emulator without messing up your min
 
 ePSXe directory are located at <i>/home/username/.epsxe</i> (You might need to press Ctrl+H to reveal the hidden directories).
 
+Download the AppImage package here: https://github.com/amirzaim/epsxe-appimage/releases/download/epsxe/ePSXe_PS1_Emulator-x86_64.AppImage
+
 <b>NOTE</b>: PS1 BIOS files are not included so you have to provide it at your own. 
